@@ -4,12 +4,10 @@ This is a django rest framework API project using stack over flow questions.
 Project directly fetchs data from stack over flow and save it in the database and can be accessed through various endpoints.
 
 #### Endpoints
-To view questions
-- api/questions/
-To fetch data
-- api/pythonquestions/  
-To view each question
-- api/questions/1
+
+- api/questions/  (To view questions)
+- api/pythonquestions/  (To fetch data)
+- api/questions/1 (To view each question)
 
 #### Module used:
 - requests
